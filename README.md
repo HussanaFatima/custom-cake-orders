@@ -1,4 +1,5 @@
-Custom Cake Orders – Bakery Management System
+# Custom Cake Orders – Bakery Management System
+
 
 This is a demo Bakery Management System developed in Core PHP as an academic and portfolio project.
 
@@ -26,15 +27,10 @@ A reusable demo for small bakery businesses
 A portfolio project demonstrating backend logic and CRUD operations
 
 Setup Instructions
-1. Import the database file from the `database` folder using phpMyAdmin.
-2. Create a `db.php` file inside the `includes` directory and add your local database credentials.
-3. Run the project on a local server (XAMPP / WAMP).
+Import the database file from the database folder.
+Create or update database credentials in includes/db.php (not included in the repository for security reasons).
+Run the project on a local server (XAMPP / WAMP).
 
-Security Note
-The `db.php` file is intentionally excluded from this repository to prevent exposure of database credentials.
-Users should create this file locally according to their environment.
-
-Note
 Note
 This repository contains demo data only.
 All credentials and content are placeholders and should be customized for production use.
