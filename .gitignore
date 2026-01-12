@@ -1,0 +1,11 @@
+# Ignore user uploads
+uploads/
+uploads/*
+
+# Ignore database connection files
+config.php
+includes/db.php
+
+# Ignore editor/system files
+.vscode/
+.DS_Store
