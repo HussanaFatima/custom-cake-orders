@@ -1,35 +1,29 @@
-# Custom Cake Orders – Bakery Management System
+# Bakery Ordering & Management System (Core PHP)
 
-This is a demo Bakery Management System developed in Core PHP as an academic and portfolio project.
+This project was developed as an academic and demonstration system to showcase backend development skills using Core PHP and MySQL.
 
 ## Features
-- Product listing and category-based menu
-- Cart system with session handling
-- Custom cake order requests
-- Admin dashboard for managing:
-  - Products
-  - Orders
-  - Order status updates
+- Customer product ordering system
+- Shopping cart with session handling
+- Custom order request module
+- Admin dashboard for:
+  - Order management
+  - Product management
+  - Order status tracking
 - Secure admin authentication
-- Order confirmation with unique order numbers
+- Database-driven architecture (MySQL)
 
-## Tech Stack
-- Core PHP (Procedural)
-- MySQL (phpMyAdmin)
-- HTML, CSS, JavaScript
-- Bootstrap (for responsiveness)
+## Technologies Used
+- Core PHP
+- MySQL
+- HTML5, CSS3, JavaScript
+- Session-based authentication
 
-## Project Purpose
-This project was built as:
-- A final academic submission
-- A reusable demo for small bakery businesses
-- A portfolio project demonstrating backend logic and CRUD operations
-
-## Setup Instructions
-- Import the database file from the database folder.
-- Create or update database credentials in `includes/db.php` (not included in the repository for security reasons).
-- Run the project on a local server (XAMPP / WAMP).
+## Purpose
+This project was created as part of academic coursework and personal skill development.  
+It demonstrates understanding of backend logic, database design, and basic security practices.
 
 ## Note
-This repository contains demo data only.  
-All credentials and content are placeholders and should be customized for production use.
+Configuration files, credentials, and uploads are excluded for security reasons.
+Configuration files, credentials, and uploads are excluded for security reasons.
+
